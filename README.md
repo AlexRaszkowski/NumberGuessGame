@@ -17,7 +17,7 @@ Python number_guess.py
 
 * greets players
 * Randomly selects a number between 0 and 10
-* Lets player guess till they win
+* Lets player guess untill they win
 * Gives hints if the guess is too high or too low
 * Displays a "You Win!" message when the correct number is guessed
 
