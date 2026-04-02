@@ -30,4 +30,5 @@ Python number_guess.py
 
 Alex Raszkowski
 Finished on 3/31/2026
+Updated on 4/2/2026: Added What I learned section and code block
 
